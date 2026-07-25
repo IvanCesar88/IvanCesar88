@@ -9,7 +9,6 @@ Procuro uma oportunidade como Desenvolvedor Júnior ou Estagiário na área de d
 
 ---
 
-## 🔭 Sobre Mim
 
 ## 🔭 Sobre Mim
 
