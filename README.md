@@ -14,7 +14,7 @@ Procuro uma oportunidade como Desenvolvedor Júnior ou Estagiário na área de d
 
 Estou em transição de carreira para a área de desenvolvimento de software. Atualmente estou no 3.º semestre de Análise e Desenvolvimento de Sistemas.
 
-Utilizo ferramentas de Inteligência Artificial como apoio ao desenvolvimento para acelerar a aprendizagem, explorar arquiteturas modernas e construir projetos completos para aprendizagem e portfólio, inspirados em cenários e produtos reais (incluindo o desenvolvimento da minha própria startup/SaaS). Procuro sempre compreender as tecnologias utilizadas e as decisões de implementação.
+Utilizo ferramentas de Inteligência Artificial como apoio ao desenvolvimento para acelerar a aprendizagem, explorar arquiteturas modernas e desenvolver soluções inspiradas em necessidades reais, incluindo o desenvolvimento da minha própria plataforma SaaS. Procuro sempre compreender as tecnologias utilizadas e as decisões de implementação.
 
 Tenho interesse especial por:
 
