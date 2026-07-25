@@ -33,7 +33,7 @@ Tenho interesse especial por:
 | [React Enterprise Dashboard](https://github.com/IvanCesar88/React-Enterprise-Dashboard) | Painel administrativo SaaS com KPIs, gráficos interativos e gestão multi-nicho | React · Vite · Recharts · Supabase |
 | [AI Customer Service Platform](https://github.com/IvanCesar88/AI-Customer-Service-Platform-Architecture) | Documentação arquitetural de uma plataforma de atendimento inteligente com IA, desenvolvida como estudo de arquitetura e desenho de sistemas escaláveis | Arquitetura · n8n · PostgreSQL · Redis · LLMs |
 
-> **Nota**: Os projetos apresentados foram desenvolvidos como parte do meu processo de aprendizagem e portfólio profissional. Utilizei ferramentas de Inteligência Artificial como apoio ao desenvolvimento, arquitetura e documentação, sendo responsável pela adaptação, validação, testes e compreensão das soluções implementadas.
+> **Nota**: Os projetos apresentados baseiam-se em trabalho real de engenharia de software e em adaptações para portfólio. Alguns repositórios são versões sanitizadas ou focadas na arquitetura, criadas para demonstrar práticas de engenharia sem expor código proprietário. Utilizei ferramentas de Inteligência Artificial como apoio ao desenvolvimento, arquitetura e documentação, sendo responsável pelas decisões de arquitetura, adaptações, validação, testes e compreensão das soluções implementadas.
 
 ---
 
@@ -66,9 +66,10 @@ Tenho interesse especial por:
 
 ## 📫 Contacto
 
-- **Email**: ivan.c.b.jr@gmail.com
-- **Telemóvel**: +351 915 528 673
-- **GitHub**: [@IvanCesar88](https://github.com/IvanCesar88)
+- **🌐 Website**: https://lusabotai.pt
+- **💼 LinkedIn**: https://www.linkedin.com/in/ivan-cesar-533b312b9
+- **📧 Email**: ivan.c.b.jr@gmail.com
+- **💻 GitHub**: [@IvanCesar88](https://github.com/IvanCesar88)
 
 ---
 
