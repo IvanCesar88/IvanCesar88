@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Ivan Cesar Pinto
 
-**Estudante de Análise e Desenvolvimento de Sistemas** · Desenvolvimento Web · IA Aplicada ao Desenvolvimento de Software
-
+****Estudante de Análise e Desenvolvimento de Sistemas** · Automação com IA · Desenvolvimento Web
 ---
 
 ## 🎯 Objetivo Profissional
