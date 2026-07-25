@@ -12,13 +12,15 @@ Procuro uma oportunidade como Desenvolvedor Júnior ou Estagiário na área de d
 
 ## 🔭 Sobre Mim
 
+## 🔭 Sobre Mim
+
 Estou em transição de carreira para a área de desenvolvimento de software. Atualmente estou no 3.º semestre de Análise e Desenvolvimento de Sistemas.
 
-Utilizo ferramentas de Inteligência Artificial como apoio ao desenvolvimento para acelerar a aprendizagem, explorar arquiteturas modernas e desenvolver soluções inspiradas em necessidades reais, incluindo o desenvolvimento da minha própria plataforma SaaS. Procuro sempre compreender as tecnologias utilizadas e as decisões de implementação.
+Utilizo ferramentas de Inteligência Artificial como apoio ao desenvolvimento para acelerar a implementação, explorar arquiteturas modernas e construir soluções inspiradas em necessidades reais, incluindo o desenvolvimento da minha própria plataforma SaaS. Procuro compreender em profundidade as tecnologias utilizadas, as decisões de arquitetura e as boas práticas de engenharia de software, sendo responsável pela adaptação, validação e implementação das soluções desenvolvidas.
 
 Tenho interesse especial por:
 
-- Desenvolvimento de aplicações Web com React
+- Desenvolvimento de aplicações Web
 - Arquitetura de software e desenho de sistemas
 - Automação com Inteligência Artificial
 - Desenvolvimento de aplicações SaaS
